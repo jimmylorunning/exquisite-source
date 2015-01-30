@@ -1,0 +1,17 @@
+# humanstxt.org/
+
+Jimmy Lo
+Site: http://jimmylocoding.com
+Location: Atlanta
+Twitter: @jimmylocoding
+
+# THANKS
+
+CodeNewbie
+Site: http://codenewbie.org
+Twitter: @codenewbies
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
