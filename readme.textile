@@ -6,7 +6,7 @@ In the early 1900's, a bunch of artsy types invented a game called "exquisite co
 
 That's just one text-based way to play it. There are many ways you can play it, and the photo on the right is an example of how you can play it with images/drawing.
 
-The idea behind this repo is very similar! You can see "the website here":index.html. It's not much yet, but soon it will be. As you can see, everything is only half finished. What we need you to do is to make a pull request. Here are the rules:
+The idea behind this repo is very similar! You can see "the website here":https://still-sands-5922.herokuapp.com/index.php. It's not much yet, but soon it will be. As you can see, everything is only half finished. What we need you to do is to make a pull request. Here are the rules:
 
 h2. Ideas to get you started
 
