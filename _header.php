@@ -29,7 +29,7 @@
 
         <div class="header-container">
             <header class="wrapper clearfix">
-                <a href="index.html"><h1 class="title">Exquisite Source</h1></a>
+                <a href="index.php"><h1 class="title">Exquisite Source</h1></a>
                 <nav>
                     <ul>
                         <li><a href="index.php">HOME</a></li>
