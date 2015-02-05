@@ -4,7 +4,7 @@
 
         <article>
             <header>
-                <p>I wasn't surprised when I walked in and </p>
+                <p>I wasn't surprised when I walked in to find everyone as confused as i am </p>
             </header>
             <section>
                 <h2></h2>
