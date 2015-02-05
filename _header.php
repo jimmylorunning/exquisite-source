@@ -35,7 +35,6 @@
                         <li><a href="index.php">HOME</a></li>
                         <li><a href="about.php">ABOUT</a></li>
                         <li><a href="https://github.com/jimmylorunning/exquisite-source"><i class="fa fa-github fa-lg"></i> PULL</a></li>
-                        <li><a href="jimmylo.php"><i class="fa fa-github fa-lg"></i>JIMMY LO</a></li>
                     </ul>
                 </nav>
             </header>

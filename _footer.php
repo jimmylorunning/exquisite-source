@@ -2,7 +2,7 @@
         <div class="footer-container">
             <footer class="wrapper">
                 <h3>About Exquisite Source</h3>
-                <p>This is an open source website for learning about open source websites. Visit us <a href="https://github.com/jimmylorunning/exquisite-source">on Github</a> and make a pull request! Or <a href="about.php">read more about the project</a>.</p>
+                <p>This is an open source website for learning about open source websites. Visit us <a href="https://github.com/jimmylorunning/exquisite-source">on Github</a> and make a pull request! Or <a href="about.php">read more about the project</a>. Created by <a href="jimmylo.php">Jimmy Lo</a>.</p>
                 <div align="center">
                   <a href="https://github.com/jimmylorunning/exquisite-source"><i class="fa fa-github fa-5x"></i></a>
                 </div>
