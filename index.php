@@ -18,7 +18,7 @@
 
         <aside>
             <h3>Meanwhile...</h3>
-            <p>...</p>
+            <p>Some guy who normally uses Ruby searches Google for what web server is needed to view PHP files locally and finds.... </p>
         </aside>
 
     </div> <!-- #main -->
