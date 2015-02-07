@@ -5,6 +5,7 @@
         <article>
             <header>
                 <p>I wasn't surprised when I walked in to find everyone as confused as i am </p>
+                <p>when a trap door opened in the ceiling, and out fell<p>
             </header>
             <section>
                 <h2></h2>
