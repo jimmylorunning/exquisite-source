@@ -6,6 +6,7 @@
             <header>
                 <p>I wasn't surprised when I walked in to find everyone as confused as i am </p>
                 <p>when a trap door opened in the ceiling, and out fell<p>
+                <p>a brown paper bag containing a half eaten burrito. Attached to the burrito was a mysterious note instructing me to<p>
             </header>
             <section>
                 <h2></h2>
