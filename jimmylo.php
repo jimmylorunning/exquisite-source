@@ -1,6 +1,5 @@
 <?php
-  $css = 'about.css';
-  include '_header.php';
+  include 'includes/_header.php';
 ?>
 	<div class="main-container">
 	    <div class="main wrapper clearfix">
@@ -10,4 +9,4 @@
 	    </div> <!-- #main -->
 	</div> <!-- #main-container -->
 
-<?php include '_footer.php'; ?>
+<?php include 'includes/_footer.php'; ?>
