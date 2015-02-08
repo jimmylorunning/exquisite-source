@@ -38,6 +38,9 @@ include 'includes/_header.php'; ?>
   <li>feel free to submit pull requests to change this about page, but only to explain things more clearly and present the information more beautifully. The rest of the site is like a playground but the about page is more like an information center, so let's not make it too wild.</li>
 </ul>
 
+<h2>What's up with the PHP?</h2>
+<p>It's just there to load common headers and footers. If you don't have PHP set up on your local machine, you can edit the homepage.html file (or the css files!) without having to worry about the PHP stuff. If you do have PHP installed and wish to add to the PHP code, go right ahead.</p>
+
 <h2>But what is a pull request?</h2>
 
 <p>A pull request is a way of contributing to a public repository. The pull request is central to the idea of open source software. Here are a few links to learn more about pull requests and open source software:</p>
