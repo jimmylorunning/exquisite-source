@@ -8,7 +8,7 @@
             </header>
             <section>
                 <h2></h2>
-                <p>...</p>
+                <p>found the room to be empty but smelled of perfume</p>
             </section>
             <section>
                 <h2></h2>
