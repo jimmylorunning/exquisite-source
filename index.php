@@ -1,7 +1,8 @@
-<?php include '_header.php'; ?>
+<?php include 'includes/_header.php'; ?>
 <div class="main-container">
     <div class="main wrapper clearfix">
 
+<<<<<<< HEAD
         <article>
             <header>
                 <p>I wasn't surprised when I walked in and </p>
@@ -20,8 +21,11 @@
             <h3>Meanwhile...</h3>
             <p>...</p>
         </aside>
+=======
+       <?php include 'homepage.html' ?>
+>>>>>>> upstream/master
 
     </div> <!-- #main -->
 </div> <!-- #main-container -->
 
-<?php include '_footer.php'; ?>
+<?php include 'includes/_footer.php'; ?>
