@@ -37,4 +37,8 @@ h2. But what is a pull request?
 A pull request is a way of contributing to a public repository. The pull request is central to the idea of open source software. Here are a few links to learn more about pull requests and open source software:
 
 * "What is Open Source?":http://www.codenewbie.org/blogs/what-is-open-source
+  good background and contextual information
 * "How to Make a Pull Request":http://www.codenewbie.org/blogs/how-to-make-a-pull-request
+  good step by step tutorial on the technical process
+* "Healthy Hacker podcast: Perfect pull request":http://www.healthyhacker.com/2014/11/10/perfect-pull-request/
+  good guide on the conventions and etiquette surrounding making a pull request the best it can be, goes beyond the technical and into more subjective areas. Highly recommended, once you've mastered the technical part.

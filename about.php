@@ -46,8 +46,12 @@ include 'includes/_header.php'; ?>
 <p>A pull request is a way of contributing to a public repository. The pull request is central to the idea of open source software. Here are a few links to learn more about pull requests and open source software:</p>
 
 <ul>
-  <li><a href="http://www.codenewbie.org/blogs/what-is-open-source">What is Open Source?</a></li>
-  <li><a href="http://www.codenewbie.org/blogs/how-to-make-a-pull-request">How to Make a Pull Request</a></li>
+  <li><a href="http://www.codenewbie.org/blogs/what-is-open-source">What is Open Source?</a>
+    <br />good background and contextual information</li>
+  <li><a href="http://www.codenewbie.org/blogs/how-to-make-a-pull-request">How to Make a Pull Request</a>
+    <br />good step by step tutorial on the technical process</li>
+  <li><a href="http://www.healthyhacker.com/2014/11/10/perfect-pull-request/">Healthy Hacker podcast: How to make the perfect pull request</a>
+    <br />good guide on the conventions and etiquette surrounding making a pull request the best it can be, goes beyond the technical and into more subjective areas. Highly recommended, once you've mastered the technical part.</li>
 </ul>
 </p>
 </article>
